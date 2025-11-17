@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+torch
+torch-geometric
+transformers
+networkx
+web3
+scipy
+numpy
+requests
